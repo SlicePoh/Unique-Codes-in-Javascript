@@ -1,4 +1,4 @@
-# good-first-issue
+# good-first-issue | | Star this repo and share with your friends
 
 Hello, I'm Shanit,
 
