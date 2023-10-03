@@ -9,3 +9,5 @@ I'm accepting Javascript code mainly. You can submit any frontend as well as bac
 Note: Different CSS styles are also accepted.
 
 Explain in the comments the USP (unique selling point) of your code.
+
+# Check out CONTRIBUTING.md to learn how to contribute effectively.
